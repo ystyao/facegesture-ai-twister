@@ -5,9 +5,9 @@ FaceGesture AI Twister is an interactive physical computing game built on a Rasp
 
 The game combines on-device computer vision models (for facial expressions and hand gestures) with ultrasonic distance sensing and spoken feedback from a large language model, turning face, hands, and space into simultaneous inputs for one puzzle.
 
-🎓 **Course:** AI in the Physical World, Duke University (Spring 2026)
-👥 **Team:** Diya Mirji, Ishan Madan Shuangting Yao
-🛠️ **My role:** [e.g., co-developer — interaction design, gesture recognition, LLM feedback]
+🎓 **Course:** AI in the Physical World, Duke University (Spring 2026)  
+👥 **Team:** Diya Mirji, Ishan Madan, Shuangting Yao  
+🛠️ **Shuangting's role:** Overall game design, hardware design & integration
 
 ---
 
